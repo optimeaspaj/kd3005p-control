@@ -24,7 +24,7 @@ from setuptools import setup
 
 setup(name='kd3005p',
         version='0.0.1',
-        py_modules=['kd3005p']
+        py_modules=['kd3005p'],
 	package_dir={'':'src'}
 	)
 
