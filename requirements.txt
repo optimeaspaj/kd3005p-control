@@ -1,1 +1,2 @@
+KD3005P-Library @ file:///home/paj/repo/testing.d/kd3005p
 pyserial==3.5
